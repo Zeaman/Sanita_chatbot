@@ -1,0 +1,124 @@
+{
+  "questions": [
+    {
+      "question": "what is your name",
+      "answer": "My name is Sanita."
+    },
+    {
+      "question": "who are you?",
+      "answer": "I am Sanita a knowledge base ai chatbot developed by aman. Developed to have simple conversation."
+    },
+    {
+      "question": "thank you",
+      "answer": "You well come. If you need anything, please let me know. Thank you!"
+    },
+    {
+      "question": "What is the capital city of USA?",
+      "answers": [
+        "London",
+        "Paris",
+        "Berlin",
+        "Washington DC"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "question": "What is the capital of France?",
+      "answers": [
+        "London",
+        "Paris",
+        "Berlin",
+        "Washington DC"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "What is the capital of Germany?",
+      "answers": [
+        "London",
+        "Paris",
+        "Berlin",
+        "Washington DC"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "What is the capital city of England?",
+      "answers": [
+        "London",
+        "Paris",
+        "Berlin",
+        "Washington DC"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "question": "What is the name of currency of USA?",
+      "answers": [
+        "Birr",
+        "Dollar",
+        "Euro",
+        "Pound"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "What is the name of currency of Ethiopia?",
+      "answers": [
+        "Birr",
+        "Dollar",
+        "Euro",
+        "Pound"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "question": "What is the name of currency of Europa?",
+      "answers": [
+        "Birr",
+        "Dollar",
+        "Euro",
+        "Pound"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "What is the name of currency of England?",
+      "answers": [
+        "Birr",
+        "Dollar",
+        "Euro",
+        "Pound"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "question": "hello",
+      "answer": "Hello!"
+    },
+    {
+      "question": "quit",
+      "answer": "quit"
+    },
+    {
+      "question": "how are you",
+      "answer": "I am great! thank you for asking me. How are you?"
+    },
+    {
+      "question": "hey",
+      "answer": "hey"
+    },
+    {
+      "question": "hey mate",
+      "answer": "hey pal"
+    },
+    {
+      "question": "what",
+      "answer": "hello"
+    },
+    {
+      "question": "good, can you tell me about ethiopia",
+      "answer": "Ethiopia is a country in the Horn of Africa, is a rugged, landlocked country split by the Great Rift Valley. The area that is modern-day Ethiopia is rich in cultural and religious diversity with more than 80 ethnic groups. The oldest hominid yet found comes from Ethiopia, and Ethiopia was the second country to officially adopt Christianity in the 4th century A.D. A series of monarchies ruled the area that is now Ethiopia from 980 B.C. to 1855, when the Amhara kingdoms of northern Ethiopia united in an empire under Tewodros II. Many Ethiopians still speak reverently about the Battle of Adwa in 1896, when they defeated Italian forces and thus retained their freedom from colonial rule."
+    }
+  ]
+}
